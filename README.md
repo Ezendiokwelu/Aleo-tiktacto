@@ -1,2 +1,2 @@
 # Aleo-tiktacto
-Aleo tiktactpe
+Aleo tiktactoe
